@@ -19,7 +19,29 @@ Mobile Backend as a Service (MBaaS)
 
 ---
 
-![Firebase Features](https://github.com/ken-mau-rbc/presentation-firebase/blob/master/firebase-features.png)
+### Firebase Features
+
+![Firebase Features](https://github.com/ken-mau-rbc/presentation-firebase/raw/master/firebase-features.png)
+
+---
+
+### Crash Reporting
+
+---
+
+### Performance Monitoring
+
+---
+
+### Google Analytics
+
+---
+
+### Cloud Messaging
+
+---
+
+### Remote Configuration
 
 ---
 
