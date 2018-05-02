@@ -1,4 +1,4 @@
-# Firebase @ RBC
+## Firebase @ RBC
 
 How WMTS Digital Uses Firebase
 
@@ -19,7 +19,7 @@ Mobile Backend as a Service (MBaaS)
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+![Firebase Features](https://github.com/ken-mau-rbc/presentation-firebase/blob/master/firebase-features.png)
 
 ---
 
