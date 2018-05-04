@@ -25,6 +25,14 @@ Mobile Backend as a Service (MBaaS)
 
 ---
 
+1. Crash Reporting
+2. Performance Monitoring
+3. Google Analytics
+4. Cloud Messaging
+5. Remote Configuration
+
+---
+
 ### Crash Reporting
 
 ---
@@ -44,7 +52,3 @@ Mobile Backend as a Service (MBaaS)
 ### Remote Configuration
 
 ---
-
-### References
-
-(1) https://en.wikipedia.org/wiki/Firebase
